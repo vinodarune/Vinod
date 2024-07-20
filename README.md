@@ -21,6 +21,19 @@
 
 - 💬 Ask me about **Azure ⋮|⋮ MS Exchange Online ⋮|⋮ M365 ⋮|⋮ MS Intune ⋮|⋮ JAMF ⋮|⋮ MS Cloud Defender ⋮|⋮ SIEM ⋮|⋮**
 
+<h3 align="left">🏅📜🎓Certifications</h3>
+<p align="left">
+  ✔️ Microsoft Certified: Azure Virtual Desktop Specialty<br>
+  ✔️ Microsoft Certified: Identity and Access Administrator Associate<br>
+  ✔️ Microsoft Certified: Security Operations Analyst Associate<br>
+  ✔️ Microsoft Certified: Security, Compliance, and Identity Fundamentals<br>
+  ✔️ Microsoft 365 Certified: Enterprise Administrator Expert<br>
+  ✔️ Microsoft Certified: Azure Administrator Associate<br>
+  ✔️ MCSA: Windows Server 2016 - Certified 2020<br>
+  ✔️ MCSE: Productivity — Certified 2020<br>
+  ✔️ AWS Certified Solutions Architect – Associate<br>
+</p>
+
 <h3 align="left">How to reach me:</h3>
 <p align="left">
   <a href="mailto:vinod.arune0@hotmail.com">
@@ -76,14 +89,14 @@
   </a>
 </p><br><br><br><br>
 
-<p align="Center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodarune&show_icons=true&locale=en&layout=compact" alt="vinodarune" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vinodarune&show_icons=true&locale=en" alt="vinodarune" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodarune&" alt="vinodarune" />
 </p>
