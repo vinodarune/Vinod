@@ -2,6 +2,11 @@
 <h3 align="center">A passionate Azure Cloud Engineer from India</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/mFSbdMAObtW9Oyy5ZY/giphy.gif" width="480" height="269" alt="Goku Ultra Instinct">
+</p>
+<p align="center"><a href="https://giphy.com/gifs/TOEIAnimationUK-goku-ultra-instinct-mastered-mFSbdMAObtW9Oyy5ZY"></a></p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinodarune&label=Profile%20views&color=0e75b6&style=flat" alt="vinodarune" />
 </p>
 
