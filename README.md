@@ -22,10 +22,13 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Cyber Security**
+<h3 align="left">🌱 I’m currently learning</h3>
+<p align="left">
+  ✔️ Cyber Security**
 
-- 💬 Ask me about 👇 
-**Azure ⋮|⋮ MS Exchange Online ⋮|⋮ M365 ⋮|⋮ MS Intune ⋮|⋮ JAMF ⋮|⋮ MS Cloud Defender ⋮|⋮ SIEM ⋮|⋮**
+<h3 align="left"> 🐱‍👤💡 Skils</h3>
+<p align="left">
+  ✔️ Azure ⋮|⋮ MS Exchange Online ⋮|⋮ M365 ⋮|⋮ MS Intune ⋮|⋮ JAMF ⋮|⋮ MS Cloud Defender ⋮|⋮ SIEM ⋮|⋮
 
 <h3 align="left">🏅📜🎓Certifications</h3>
 <p align="left">
