@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **Azure ⋮|⋮ MS Exchange Online ⋮|⋮ M365 ⋮|⋮ MS Intune ⋮|⋮ JAMF ⋮|⋮ MS Cloud Defender ⋮|⋮ SIEM ⋮|⋮**
+- 💬 Ask me about 👉 **Azure ⋮|⋮ MS Exchange Online ⋮|⋮ M365 ⋮|⋮ MS Intune ⋮|⋮ JAMF ⋮|⋮ MS Cloud Defender ⋮|⋮ SIEM ⋮|⋮**
 
 <h3 align="left">🏅📜🎓Certifications</h3>
 <p align="left">
