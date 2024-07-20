@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinod Arune</h1>
-<h3 align="center">A passionate Azure Cloud Engineer from India</h3>
+<h3 align="center">A passionate Azure Cloud Engineer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/mFSbdMAObtW9Oyy5ZY/giphy.gif" width="480" height="269" alt="Goku Ultra Instinct">
