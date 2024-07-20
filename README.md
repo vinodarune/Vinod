@@ -23,7 +23,7 @@
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
-  <a href="vinod.arune0@hotmail.com">
+  <a href="mailto:vinod.arune0@hotmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
