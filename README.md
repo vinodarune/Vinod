@@ -1,111 +1,269 @@
-<h1 align="center">Hi 👋, I'm Vinod Arune</h1>
-<h3 align="center">A passionate Azure Cloud Engineer </h3>
+<h1 align="center">
+Hi 👋, I'm Vinod Arune
+</h1>
+
+<h3 align="center">
+Cloud Solution Architect | Azure ☁️ | AWS | Kubernetes | DevOps | AI
+</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt2enNzdHR4dzgybjM3MDNrN203M29mdnFpaWlwemR4YjB4NWsyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dJHaTbNQOjYMWdHSTG/giphy.gif">
-</p>
-<p align="center"><a href="https://giphy.com/gifs/TOEIAnimationUK-goku-ultra-instinct-mastered-mFSbdMAObtW9Oyy5ZY"></a></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinodarune&label=Profile%20views&color=0e75b6&style=flat" alt="vinodarune" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinodarune" alt="vinodarune" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Cloud+Solution+Architect;Microsoft+Certified+Professional;AWS+Certified+Solutions+Architect;Azure+AI+%7C+DevOps+%7C+Kubernetes;Infrastructure+as+Code+%7C+FinOps;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt2enNzdHR4dzgybjM3MDNrN203M29mdnFpaWlwemR4YjB4NWsyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dJHaTbNQOjYMWdHSTG/giphy.gif" width="500"/>
 </p>
 
-<h3 align="left">🌱 I’m currently learning</h3>
-<p align="left">
-  ✔️ Cyber Security**
+---
 
-<h3 align="left"> 🐱‍👤💡 Skils</h3>
-<p align="left">
-  ✔️ Azure ⋮|⋮ MS Exchange Online ⋮|⋮ M365 ⋮|⋮ MS Intune ⋮|⋮ JAMF ⋮|⋮ MS Cloud Defender ⋮|⋮ SIEM ⋮|⋮
+# 💫 About Me
 
-<h3 align="left">🏅📜🎓Certifications</h3>
-<p align="left">
-  ✔️ Microsoft Certified: Azure Virtual Desktop Specialty<br>
-  ✔️ Microsoft Certified: Identity and Access Administrator Associate<br>
-  ✔️ Microsoft Certified: Security Operations Analyst Associate<br>
-  ✔️ Microsoft Certified: Security, Compliance, and Identity Fundamentals<br>
-  ✔️ Microsoft 365 Certified: Enterprise Administrator Expert<br>
-  ✔️ Microsoft Certified: Azure Administrator Associate<br>
-  ✔️ MCSA: Windows Server 2016 - Certified 2020<br>
-  ✔️ MCSE: Productivity — Certified 2020<br>
-  ✔️ AWS Certified Solutions Architect – Associate<br>
+🔹 Cloud Solution Architect
+
+🔹 Microsoft Certified Professional
+
+🔹 AWS Certified Solutions Architect
+
+🔹 Passionate about Cloud, AI & Automation
+
+🔹 Designing Enterprise Scale Azure Landing Zones
+
+🔹 Infrastructure as Code (Terraform & Bicep)
+
+🔹 Azure AI Foundry & OpenAI
+
+🔹 Kubernetes & Docker
+
+🔹 Azure Security & Microsoft Defender
+
+🔹 FinOps & Cloud Cost Optimization
+
+🔹 Always learning new technologies
+
+---
+
+# 🌱 Currently Learning
+
+- Azure AI Foundry
+- Azure OpenAI
+- Terraform
+- Kubernetes
+- GitHub Actions
+- Cyber Security
+- AI Agents
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,git,github,linux,python,bash,powershell,vscode"/>
+
 </p>
 
-<h3 align="left">How to reach me:</h3>
-<p align="left">
-  <a href="mailto:vinod.arune0@hotmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
-  </a>
+---
+
+# 💻 Microsoft Technologies
+
+- Azure Landing Zones
+- Azure Virtual Desktop
+- Azure Networking
+- Azure Security
+- Azure Backup & Site Recovery
+- Azure Monitor
+- Azure Arc
+- Azure Update Manager
+- Azure Kubernetes Service
+- Azure AI Foundry
+- Azure OpenAI
+- Microsoft Defender
+- Microsoft Sentinel
+- Entra ID
+- Microsoft Intune
+- Microsoft 365
+- Exchange Online
+
+---
+
+# ☁️ Cloud Skills
+
+✔ Azure
+
+✔ AWS
+
+✔ Kubernetes
+
+✔ Docker
+
+✔ Terraform
+
+✔ Bicep
+
+✔ Infrastructure as Code
+
+✔ DevOps
+
+✔ GitHub Actions
+
+✔ Networking
+
+✔ Azure Firewall
+
+✔ Palo Alto
+
+✔ Fortinet
+
+✔ SQL Server
+
+✔ Windows Server
+
+✔ Linux
+
+✔ PowerShell
+
+✔ Python
+
+✔ Azure Monitor
+
+✔ Azure Backup
+
+✔ FinOps
+
+✔ Azure Migrate
+
+✔ Azure Site Recovery
+
+✔ Azure Files
+
+✔ Azure NetApp Files
+
+✔ Defender for Cloud
+
+✔ Sentinel
+
+✔ Identity Management
+
+---
+
+# 🏆 Certifications
+
+🏅 Microsoft Certified: Azure Virtual Desktop Specialty
+
+🏅 Microsoft Certified: Azure Administrator Associate
+
+🏅 Microsoft Certified: Identity and Access Administrator Associate
+
+🏅 Microsoft Certified: Security Operations Analyst Associate
+
+🏅 Microsoft Certified: Security, Compliance and Identity Fundamentals
+
+🏅 Microsoft 365 Certified: Enterprise Administrator Expert
+
+🏅 AWS Certified Solutions Architect – Associate
+
+🏅 MCSA Windows Server 2016
+
+🏅 MCSE Productivity
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="mailto:vinod.arune0@hotmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vinod-b-arune/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/vinodarune">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinod-b-arune/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinodarune&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodarune&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vinodarune&theme=tokyonight"/>
+
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/vinodarune">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/vinodarune" />
-  </a>
-</p><br><br><br><br>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodarune&show_icons=true&locale=en&layout=compact" alt="vinodarune" />
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodarune&theme=tokyo-night"/>
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinodarune&show_icons=true&locale=en" alt="vinodarune" />
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinodarune&theme=algolia&row=1&column=7&no-frame=true"/>
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodarune&" alt="vinodarune" />
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://github.com/vinodarune/vinodarune/blob/output/github-contribution-grid-snake.svg"/>
+
 </p>
+
+---
+
+# ☕ Support
+
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/vinodarune">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vinodarune&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</h3>
