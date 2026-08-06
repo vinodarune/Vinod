@@ -17,3 +17,104 @@ Cloud Solution Architect ☁️ | Azure • AWS • Kubernetes • DevOps • AI
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vinodarune&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+<li>☁️ Cloud Solution Architect</li>
+<li>🏗️ Designing Enterprise Azure Landing Zones</li>
+<li>🚀 Microsoft & AWS Certified</li>
+<li>🤖 Passionate about AI & Cloud Automation</li>
+<li>🛠️ Infrastructure as Code (Terraform & Bicep)</li>
+<li>☸️ Kubernetes & Docker</li>
+<li>🔒 Azure Security & Microsoft Defender</li>
+<li>💰 Cloud Cost Optimization (FinOps)</li>
+<li>⚡ PowerShell & Python Automation</li>
+<li>📚 Continuous Learner</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🌱 Currently Learning</h2>
+
+<ul>
+<li>Azure AI Foundry</li>
+<li>Azure OpenAI</li>
+<li>Terraform Advanced</li>
+<li>Kubernetes (AKS)</li>
+<li>GitHub Actions</li>
+<li>AI Agents</li>
+<li>Cyber Security</li>
+<li>Prompt Engineering</li>
+<li>Azure Well-Architected Framework</li>
+<li>Azure Landing Zone Accelerator</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>☁️ Cloud Skills</h2>
+
+<ul>
+<li>Azure</li>
+<li>AWS</li>
+<li>Kubernetes</li>
+<li>Docker</li>
+<li>Terraform</li>
+<li>Bicep</li>
+<li>Infrastructure as Code</li>
+<li>DevOps</li>
+<li>GitHub Actions</li>
+<li>Azure DevOps</li>
+<li>Networking</li>
+<li>Azure Firewall</li>
+<li>Palo Alto</li>
+<li>Fortinet</li>
+<li>PowerShell</li>
+<li>Python</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>💻 Microsoft Technologies</h2>
+
+<ul>
+<li>Azure Landing Zones</li>
+<li>Azure Virtual Desktop</li>
+<li>Azure Networking</li>
+<li>Azure Monitor</li>
+<li>Azure Arc</li>
+<li>Azure Backup</li>
+<li>Azure Site Recovery</li>
+<li>Azure Update Manager</li>
+<li>Azure AI Foundry</li>
+<li>Azure OpenAI</li>
+<li>Microsoft Defender for Cloud</li>
+<li>Microsoft Sentinel</li>
+<li>Microsoft Intune</li>
+<li>Microsoft Entra ID</li>
+<li>Exchange Online</li>
+<li>Microsoft 365</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
