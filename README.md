@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Azure Cloud Engineer </h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/mFSbdMAObtW9Oyy5ZY/giphy.gif" width="480" height="269" alt="Goku Ultra Instinct](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt2enNzdHR4dzgybjM3MDNrN203M29mdnFpaWlwemR4YjB4NWsyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dJHaTbNQOjYMWdHSTG/giphy.gif)">
+  <img src="https://media.giphy.com/media/mFSbdMAObtW9Oyy5ZY/giphy.gif" width="480" height="269" alt="Goku Ultra Instinct](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt2enNzdHR4dzgybjM3MDNrN203M29mdnFpaWlwemR4YjB4NWsyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dJHaTbNQOjYMWdHSTG/giphy.gif">
 </p>
 <p align="center"><a href="https://giphy.com/gifs/TOEIAnimationUK-goku-ultra-instinct-mastered-mFSbdMAObtW9Oyy5ZY"></a></p>
 
