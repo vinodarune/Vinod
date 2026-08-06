@@ -225,37 +225,31 @@ PowerShell • Python • GitHub Actions
 
 <h2>🌐 Connect with Me</h2>
 
-<br>
+<table width="100%">
 
-<a href="mailto:vinod.arune0@hotmail.com">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+<td width="50%" align="center">
 
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/vinod-b-arune/">
-
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/vinodarune">
-
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-
-</a>
-
-<br><br>
-
-<b>Email</b>
+<h2>🌐 Connect with Me</h2>
 
 <br>
 
-vinod.arune0@hotmail.com
+<a href="mailto:vinod.arune0@hotmail.com" title="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/vinod-b-arune/" target="_blank" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/vinodarune" target="_blank" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
 
 </td>
 
@@ -265,13 +259,19 @@ vinod.arune0@hotmail.com
 
 <br>
 
-<a href="https://www.buymeacoffee.com/vinodarune">
-
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"/>
-
+<a href="https://www.buymeacoffee.com/vinodarune" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"/>
 </a>
 
 <br><br>
+
+<b>If you enjoy my projects, consider buying me a coffee ☕</b>
+
+</td>
+
+</tr>
+
+</table>
 
 <b>If you enjoy my projects, consider buying me a coffee ☕</b>
 
